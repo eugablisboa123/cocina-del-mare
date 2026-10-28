@@ -315,8 +315,8 @@
 
         <article class="card">
           <a class="imagem" href="#lagosta" aria-label="Conhecer a lagosta">
-            <img src="https://images.unsplash.com/photo-1553247407-23251ce81f59?auto=format&fit=crop&w=800&q=85"
-                 alt="Preparação gastronômica de frutos do mar">
+              <img src="https://receitascomairfryer.com.br/wp-content/uploads/2024/08/g2journey_httpss.mj_.run57fn66_4qdk_Close-up_of_two_grilled_lo_02ffa46e-6b86-480a-85b1-7fabd4aae1b2_1-1024x683.png"
+                alt="Duas lagostas grelhadas">
           </a>
           <div class="card-conteudo">
             <h3>Lagosta</h3>
