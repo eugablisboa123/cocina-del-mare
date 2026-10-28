@@ -8,6 +8,14 @@
   <meta name="description" content="Cozinha do Mar: descubra receitas, curiosidades e dicas sobre frutos do mar.">
   <title>Cozinha do Mar | Sabores do Oceano</title>
 
+  <!--
+  Descrição das imagens:
+  - Imagem principal: fundo com cenário de frutos do mar em tom quente, transmitindo uma atmosfera elegante e acolhedora de cozinha oceânica.
+  - Polvo: prato visualmente sofisticado, com aparência de comida de restaurante, destacando textura e sabor marcante.
+  - Lagosta: duas lagostas grelhadas, com apresentação que reforça a ideia de luxo, sofisticação e preparo elegante.
+  - Camarão: camarões preparados para uma refeição, com aspecto apetitoso e dinâmico, sugerindo versatilidade em receitas.
+  -->
+
   <style>
     * {
       margin: 0;
