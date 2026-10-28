@@ -311,8 +311,8 @@
       <div class="grade">
         <article class="card">
           <a class="imagem" href="#polvo" aria-label="Conhecer o polvo">
-            <img src="https://images.unsplash.com/photo-1559737558-2f5a35f4523b?auto=format&fit=crop&w=800&q=85"
-                 alt="Prato de frutos do mar">
+            <img src="https://source.unsplash.com/featured/800x600/?octopus,seafood"
+                 alt="Prato de polvo">
           </a>
           <div class="card-conteudo">
             <h3>Polvo</h3>
